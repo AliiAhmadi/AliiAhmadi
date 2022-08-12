@@ -10,7 +10,7 @@ Some things about me :<br/>
 :two: I’m currently working on the <a href="https://github.com/AliiAhmadi">ME</a><br/> 
 :three: How to reach me : Mail me at <a href="mailto:ahmadiali82c@gmail.com">here</a><br/>
 :four: Ask me anything related to programming : <a href="mailto:ahmadiali82c@gmail.com">here</a><br/>
-
+:five: More skills : Network+, CCNA, CEH, HTML, CSS
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/AliiAhmadi?tab=repositories)
 
