@@ -6,11 +6,11 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <b>Welcome !! </b><br/>
 Some things about me :<br/>
-:one: Proficient with Python, JS, C++, Node.js<br/> 
+:one: Proficient with Python, JS, C++, Node.js, TS<br/> 
 :two: I’m currently working on the <a href="https://github.com/AliiAhmadi">ME</a><br/> 
 :three: How to reach me : Mail me at <a href="mailto:ahmadiali82c@gmail.com">here</a><br/>
 :four: Ask me anything related to programming : <a href="mailto:ahmadiali82c@gmail.com">here</a><br/>
-:five: More skills : Network+, CCNA, CEH, HTML, CSS
+:five: More skills : Network+, CCNA, CEH, HTML, CSS, Docker
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/AliiAhmadi?tab=repositories)
 
