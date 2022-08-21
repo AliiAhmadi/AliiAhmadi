@@ -1,4 +1,5 @@
 <div align="right"><img src="https://komarev.com/ghpvc/?username=AliiAhmadi&color=orange"/></div>
+<a href=#><img src="https://raw.githubusercontent.com/donno2048/donno2048/dist/snake.svg"></a>
 <h1 align="center">Hi 👋, I'm Ali Ahmadi</h1>
 
 [![-----------------------------------------------------](
